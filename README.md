@@ -208,7 +208,7 @@ noldabam/                           # 프로젝트 루트 디렉토리
 
 ## 💻 **화면 구성**
 
-### 1️⃣ 로그인 / 회원가입
+### 1️⃣ 로그인 / 회원가입 / 아이디 찾기 / 비밀번호 찾기
 
 ![loginSignup](https://github.com/user-attachments/assets/8046cb62-e85d-4cfb-a063-132cdcb03679)
 
